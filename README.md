@@ -1,6 +1,6 @@
 ### Hello 👋
  
- My name is Miguel I'm from :🇵🇪: Peru but currently living in :🇪🇸:
+ My name is Miguel I'm from  Peru but currently living in SPAIN :es:
  
  SKILLS
  
