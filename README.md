@@ -1,6 +1,19 @@
-### Hi there 👋
+### Hello 👋
+ 
+ My name is Miguel I'm from Peru but currently living in Spain.
+ 
+ SKILLS
+-React
+-Javascript
+-Wordpress
+-HTML
+-CSS
+-Tailwind
 
-<!--
+🌱 I’m currently learning Typescritp
+ 
+ 
+<!-
 **rochamiguel1/rochamiguel1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
