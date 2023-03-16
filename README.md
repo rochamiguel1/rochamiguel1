@@ -3,6 +3,7 @@
  My name is Miguel I'm from Peru but currently living in Spain.
  
  SKILLS
+ 
 -React
 -Javascript
 -Wordpress
